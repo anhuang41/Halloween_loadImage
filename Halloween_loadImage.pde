@@ -1,4 +1,4 @@
-/* @pjs preload="cat.jpeg"; */
+/* @pjs preload="cat.jpg"; */
 PImage img;
 void setup(){
   size(600,600);
